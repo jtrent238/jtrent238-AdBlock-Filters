@@ -1,0 +1,160 @@
+[Adblock Plus 2.0]
+! Checksum: null
+! Version: null
+! Title: jtrent238's AdBlock BlockList
+! Last modified: null
+! Expires: 365 days (update frequency)
+! Homepage: https://jtrent238.weebly.com/
+!
+!-----------------------jtrent238's advert blocking filters-----------------------!
+! *** jtrent238:JTAdBlock/jtrent238_blocks.txt ***
+@@|http://persona.ly/widget/offer?$document
+@@|https://personatrk.com/survey/?$document
+@@|http://dm.dogood.media/ML2?$document
+@@|http://dm.dogood.media//ML2/Frameset?$document
+@@|https://www.instagc.com/earn/adwall|$document
+@@|https://www.instagc.com/earn/radium-one|$document
+@@|http://adf.ly/2866684/candycraft-13-1710|$document
+@@|http://www.thewindowsclub.com/map-an-ftp-drive-windows|$document
+@@|http://adf.ly/sq5FG|$document
+@@|http://adf.ly/|$document
+@@|https://login.adf.ly/login|$document
+@@|https://login.adfly-account.com/login|$document
+@@|http://minecraft.tools/en/skin.php?$document
+@@|http://twineer.com/502|$document
+@@|https://www.instagc.com/earn/adgate-rewards/clicks|$document
+@@|https://www.instagc.com/earn/offertoro/clicks|$document
+@@|https://www.instagc.com/earn/radium-one/clicks|$document
+@@|https://www.instagc.com/earn/woobi|$document
+@@|https://survey-api.com/api/CUA?$document
+@@|https://www.instagc.com/earn/persona.ly|$document
+@@|https://www.instagc.com/earn/adgate-rewards|$document
+@@|https://www.instagc.com/earn/wall-ads|$document
+www.shmoop.com##IMG[class="img-responsive center-block"][src="https://media1.shmoop.com/images/internal-promo/partner_program_ad.png"]
+www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"][href="https://www.shmoop.com/subscriptions/plans.html"]
+www.shmoop.com##IFRAME[id="crtDiv_728x90_cto_iframe"]
+www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"]
+www.shmoop.com##IFRAME[id="crtDiv_300x250_cto_iframe"]
+www.litcharts.com##IMG[class="pdf-fan"][src="https://litcharts-static.s3.amazonaws.com/pdf-fans/3-page//lord-of-the-flies.pdf.large.png"]
+www.litcharts.com##DIV[id="right-sidebar-teacher-edition-grouping"][class="grouping teacher-edition"]
+www.litcharts.com##DIV[class="quote"]
+www.litcharts.com##DIV[class="header"]
+www.litcharts.com##A[class="btn btn-lc-red track"][href="/sign-up?book=lord-of-the-flies&focus=pdf&utm_source=right_sidebar_pdf"]
+www.litcharts.com##DIV[id="right-sidebar-pdf-grouping"][class="grouping pdf"]
+www.litcharts.com##DIV[class="right-sidebar"]
+www.litcharts.com##DIV[class="stretcher"]
+www.litcharts.com##DIV[class="stretch-left-promo"]
+www.litcharts.com##A[class="btn btn-lc-red upgrade"][href="/sign-up?utm_source=upgrade_to_aplus_button"]
+outlook.live.com##SPAN[class="__Microsoft_Owa_Adsbar_templates_cs_4 ms-fcl-nsa owaimg ms-Icon--outlook"]
+outlook.live.com##DIV[class="_n_i"]
+outlook.live.com##DIV[class="_n_h"]
+lifehomeliving.com##IMG[src="http://lifehomeliving.com/sites/default/files/SafeLink%2012102016%20Display%20Q4%2016%20All%20States%20300x250.jpg"]
+www.cnn.com##A[class="m-legal__links"][href="#"]
+unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cDovL3d3dy5teUFTUC5ORVQvYWZmaWxpYXRlLzcyOFg5MC5naWY"]
+unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly9jZG4uaWdjc3RjLmNvbS9zL2Jhbm5lcnMvMTM1MjI4Ny85LmdpZg"]
+unblocked.lol##DIV[class="signup-container-header trigger-signup"]
+unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly9jZG4uYWRmLmx5L2ltYWdlcy9iYW5uZXJzL2FkZmx5LjcyOHg5MC4yLmdpZg"]
+unblocked.lol##A[href="https://unblocked.lol/YouTube/index.php?q=aHR0cDovL2FkZi5seS8_aWQ9ODU2MTk0Nw"]
+unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly9kZWdvby5jb20vQ29udGVudC9JbWFnZXMvQmFubmVyL0RlZ29vLWgyLnBuZw"]
+unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly93d3cuMDAwd2ViaG9zdC5jb20vaW1hZ2VzL2Jhbm5lcnMvNzI4eDkwLzEuanBn"]
+www.forbes.com##DIV[id="adblock-hover"]
+www.forbes.com##DIV[class="ab-message ab-message-1"]
+www.forbes.com##DIV[class="continue-button"]
+www.forbes.com##DIV[id="navigation"]
+www.forbes.com##P[class="body-byline"]
+www.forbes.com##BLOCKQUOTE[class="body-content"]
+www.forbes.com##SPAN[class="bottom"]
+www.forbes.com##I[class="branding icon icon-forbes-logo"]
+www.forbes.com##SPAN[class="top"]
+www.forbes.com##DIV[id="app"][class="container clearfix default-template ad-300-by-250"]
+www.pri.org##A[class="button"]
+www.pri.org##H4
+www.pri.org##P
+www.pri.org##ASIDE[class="promo-box--promo panel-pane pane-block pane-dfp-pri-ros-atf-300x600 jquery-once-6-processed"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/story/images/greencard3.png?itok=_odI90hz"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/story/images/JohnGreen.png?itok=C8eXae7z"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/story/images/confetti%202.jpg?itok=mffVf89q"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/KurtandTracey.jpg?itok=4tcXcOLQ"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/story/images/lion1_0.jpg?itok=wgQF6eoO"]
+www.pri.org##IMG[src="https://cdn1.pri.org/sites/default/files/styles/feature_medium/public/story/images/patients%20waiting.jpg?itok=d9-Phs03"]
+www.pri.org##LI
+adventofascension.gamepedia.com##IFRAME[id="crt-458799_cto_iframe"]
+adventofascension.gamepedia.com##IFRAME[id="crt-458798_cto_iframe"]
+www.minecraftforum.net##DIV[class="ad-placement ad-leaderboard atf-ad-leaderboard"]
+www.torlock.com##IMG[src="https://www.torlock.com/images/dlbutton49458854.png"]
+www.torlock.com##IMG[src="https://www.torlock.com/images/dlbutton45749467.png"]
+www.torlock.com##DIV[id="M213400PreloadC87252"]
+www.curseforge.com##IFRAME[id="crt-458798_cto_iframe"]
+www.curseforge.com##DIV[id="crt-458799"]
+www.curseforge.com##DIV[id="crt-458798"]
+www.minecraftforum.net##DIV[class="ad-placement ad-leaderboard-footer "]
+pastebin.com##IFRAME[id="monkey_2"]
+vaughnlive.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/avdff4256cbfabacdb3402b02302340902389edcba378201.gif"]
+vaughnlive.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/8305074c5a489ee8298368954edfe296_cbca7635077d4074f8d30094a3176972_23180f01c3c51b8ce4285f3fb349c9d6.jpg"]
+vaughnlive.tv##SPAN[class="thumbBlock"]
+vaughnlive.tv##SPAN[class="video-label video-title trc_ellipsis "]
+vaughnlive.tv##SPAN[class="branding"]
+vaughnlive.tv##DIV[id="trc_header_65374"][class="trc_rbox_header trc_rbox_border_elm"]
+vaughnlive.tv##DIV[id="rbox-t2m"][class="trc_rbox_div trc_rbox_border_elm"]
+vaughnlive.tv##DIV[class="height10px"]
+vaughnlive.tv##DIV[id="trc_header_97359"][class="trc_rbox_header trc_rbox_border_elm"]
+vaughnlive.tv##DIV[id="trc_header_94716"][class="trc_rbox_header trc_rbox_border_elm"]
+vaughnlive.tv##SPAN[class="trc_rbox_header_span"]
+vaughnlive.tv##SPAN[class="trc_adc_s_logo"]
+vapers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/e81ce6b7092b6dd355b70fe0c3b1f8cb_147aabaf03fd52d5bfe02df5834af329_6acdd9d0a2a3537883913690937c75ec.jpg"]
+vapers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/avdff4256cbfabacdb3402b02302340902389edcba378201.gif"]
+vapers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/abvs_ed023dhwe.jpg"]
+vapers.tv##DIV[class="MvnAbvsLowerThirdLogo"]
+vapers.tv##A[href="http://vapers.tv/howto/vip"]
+breakers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/avdff4256cbfabacdb3402b02302340902389edcba378201.gif"]
+breakers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/8305074c5a489ee8298368954edfe296_cbca7635077d4074f8d30094a3176972_23180f01c3c51b8ce4285f3fb349c9d6.jpg"]
+breakers.tv##IMG[src="https://cdn.vaughnsoft.com/abvs/abvs_ed023dhwe.jpg"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/LifeIn1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/Debt1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/Copy-of-EDU3.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/Attorney1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/AutoInsurance1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/CreditRepair1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/ReverseMortgage1.png"]
+content1.mytodayyourtomorrow.com##IMG[src="https://242b99972eff8f0fcf5f-6427271b1a4847ea790677e80a2470f7.ssl.cf5.rackcdn.com/uploads/Walkintub1.png"]
+content1.mytodayyourtomorrow.com##P[class="sponsored"]
+content1.mytodayyourtomorrow.com##H3[class="text-center"]
+content1.mytodayyourtomorrow.com##DIV[class="owl-next"]
+content1.mytodayyourtomorrow.com##DIV[class="owl-prev"]
+content1.mytodayyourtomorrow.com##A[href="http://www.replyregister.com/rd/r.php?sid=2747&pub=300938&c1=mtyt&c2=post_before_content_50|129|3"]
+content1.mytodayyourtomorrow.com##A[href="http://www.replyregister.com/rd/r.php?sid=2753&pub=300938&c1=mtyt&c2=post_before_content_50|129|2"]
+content1.mytodayyourtomorrow.com##DIV[class="owl-stage"]
+content1.mytodayyourtomorrow.com##DIV[id="keywordsWidgetpost_before_content_50129"][class="items keywords-items owl-carousel owl-theme owl-loaded owl-drag owl-hidden"]
+content1.mytodayyourtomorrow.com##DIV[class="header"]
+content1.mytodayyourtomorrow.com##DIV[class="keywordsWidget-v2"]
+content1.mytodayyourtomorrow.com##SPAN[class="txt"]
+content1.mytodayyourtomorrow.com##SPAN[class="num"]
+content1.mytodayyourtomorrow.com##A[class="ad"]
+content1.mytodayyourtomorrow.com##DIV[class="col l"]
+content1.mytodayyourtomorrow.com##DIV[class="col r"]
+www.easybib.com##DIV[id="e10ddf52ae01b"]
+www.easybib.com##DIV[id="c0cb517eacc3bcc4421c99e"]
+www.easybib.com##DIV[id="easybib_lboard"]
+www.easybib.com##DIV[id="f9e9c4996ff9718bf941a0f98c88"]
+www.easybib.com##DIV[id="d65f8eacbd02e"]
+www.easybib.com##DIV[id="fc4c2ae17f9530f4"]
+www.easybib.com##DIV[id="easybib_box"][class="easybib_box"]
+www.easybib.com##DIV[id="a1j40a5bb15a1"]
+www.easybib.com##DIV[id="easybib_box_2"][class="easybib_box"]
+www.wired.com##IMG[src="/images/cm/failsafe-images/cm-failsafe-banner.png"]
+www.wired.com##IMG[src="/images/cm/failsafe-images/cm-failsafe-box.png"]
+www.wired.com##DIV[class="sponsored-stories-component"]
+www.wired.com##DIV[class="card-component card-component--top card-component--left card-component--border"]
+www.wired.com##DIV[class="we-recommend-component"]
+www.wired.com##IFRAME[src="https://demos.inspired-mobile.com/Demos/BurberryFestiveTalent/m/noexpandable.html?casterId=inspired_1936311235316&countryId=&sendFrom=inspired_1936311235316&crtid=5098&cmpid=6902&fpid=d3b51a0f531e891216cb8fe726c98184&redirect=https://ad.doubleclick.net/ddm/trackclk/N8934.1845103IMAGINEMOBILE0/B20439825.208066950;dc_trk_aid=407727447;dc_trk_cid=94324405;dc_lat=;dc_rdid=;tag_for_child_directed_treatment="]
+www.wired.com##DIV[id="google_ads_iframe_3379/wiredcom.dart/science_1__container__"]
+www.wired.com##DIV[class="we-recommend-wrapper"]
+www.wired.com##IFRAME[src="https://demos.inspired-mobile.com/Demos/BurberryFestiveTalent/m/noexpandable2.html?casterId=inspired_9481854288395&countryId=&sendFrom=inspired_9481854288395&crtid=5096&cmpid=6902&fpid=d3b51a0f531e891216cb8fe726c98184&redirect=https://ad.doubleclick.net/ddm/trackclk/N8934.1845103IMAGINEMOBILE0/B20439825.208066950;dc_trk_aid=407727447;dc_trk_cid=94324405;dc_lat=;dc_rdid=;tag_for_child_directed_treatment="]
+www.wired.com##DIV[id="cns_ads_1513636117910D3smrJkmkN7kBdw6W3U710TDMKlyRF_post_nav_0_container"][class="cns-ads-container"]
+www.wired.com##DIV[class="advertisement__leaderboard"]
+www.wired.com##DIV[id="cns_ads_1513636149577QWRybmkIaW2WWuGf6iD67Gp69orhL5_siderail_1_0_container"][class="cns-ads-container"]
+www.wired.com##IFRAME[id="google_ads_iframe_3379/wiredcom.cm/security_0"][name="google_ads_iframe_3379/wiredcom.cm/security_0"]
+www.planetminecraft.com##IMG[src="https://i.imgur.com/mol2DzC.png"]
+www.planetminecraft.com##IMG[src="https://i.imgur.com/080S7h7.jpg"]
+www.planetminecraft.com##IMG[src="https://i.imgur.com/Y1ghVQ3.jpg"]
+www.planetminecraft.com##IMG[src="https://bdcraft.net/img/ban300x250.png"]
