@@ -183,3 +183,8 @@ sourceforge.net##DIV[id="trc_wrapper_38153"][class="trc_rbox thumbnails-b trc-co
 sourceforge.net##DIV[id="trc_wrapper_74378"][class="trc_rbox thumbnails-b trc-content-sponsored "]
 sourceforge.net##DIV[id="trc_wrapper_78890"][class="trc_rbox thumbnails-b trc-content-sponsored "]
 sourceforge.net##[class="trc_rbox thumbnails-b trc-content-sponsored "]
+www.textnow.com##IFRAME[id="google_ads_iframe_/2897118/TNWeb_MediumRectangle_0"][name="google_ads_iframe_/2897118/TNWeb_MediumRectangle_0"]
+www.textnow.com##IMG[src="/common/public/images/non-sale/WebAppPlaceholderPromos_2_3oox25o.27063b709d6ca31.jpg"]
+www.textnow.com##IMG[src="/common/public/images/non-sale/WebAppPlaceholder_slot2.bab24661dbf00c3.jpg"]
+www.textnow.com##IMG[id="blackFridayImage"]
+www.textnow.com##DIV[class="rotation-manager-slot"]
