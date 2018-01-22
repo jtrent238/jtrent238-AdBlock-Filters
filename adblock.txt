@@ -14,8 +14,6 @@
 @@|http://dm.dogood.media//ML2/Frameset?$document
 @@|https://www.instagc.com/earn/adwall|$document
 @@|https://www.instagc.com/earn/radium-one|$document
-@@|http://adf.ly/2866684/candycraft-13-1710|$document
-@@|http://www.thewindowsclub.com/map-an-ftp-drive-windows|$document
 @@|http://adf.ly/sq5FG|$document
 @@|http://adf.ly/|$document
 @@|https://login.adf.ly/login|$document
