@@ -12,22 +12,20 @@
 @@|https://personatrk.com/survey/?$document
 @@|http://dm.dogood.media/ML2?$document
 @@|http://dm.dogood.media//ML2/Frameset?$document
-@@|https://www.instagc.com/earn/adwall|$document
-@@|https://www.instagc.com/earn/radium-one|$document
 @@|http://adf.ly/sq5FG|$document
 @@|http://adf.ly/|$document
 @@|https://login.adf.ly/login|$document
 @@|https://login.adfly-account.com/login|$document
-@@|http://minecraft.tools/en/skin.php?$document
-@@|http://twineer.com/502|$document
+@@|https://www.instagc.com/earn/adwall|$document
+@@|https://www.instagc.com/earn/radium-one|$document
 @@|https://www.instagc.com/earn/adgate-rewards/clicks|$document
 @@|https://www.instagc.com/earn/offertoro/clicks|$document
 @@|https://www.instagc.com/earn/radium-one/clicks|$document
 @@|https://www.instagc.com/earn/woobi|$document
-@@|https://survey-api.com/api/CUA?$document
 @@|https://www.instagc.com/earn/persona.ly|$document
 @@|https://www.instagc.com/earn/adgate-rewards|$document
 @@|https://www.instagc.com/earn/wall-ads|$document
+@@|https://survey-api.com/api/CUA?$document
 www.shmoop.com##IMG[class="img-responsive center-block"][src="https://media1.shmoop.com/images/internal-promo/partner_program_ad.png"]
 www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"][href="https://www.shmoop.com/subscriptions/plans.html"]
 www.shmoop.com##IFRAME[id="crtDiv_728x90_cto_iframe"]
