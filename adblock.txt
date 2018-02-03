@@ -26,6 +26,7 @@
 @@|https://www.instagc.com/earn/adgate-rewards|$document
 @@|https://www.instagc.com/earn/wall-ads|$document
 @@|https://survey-api.com/api/CUA?$document
+@@||twitch.tv/$document
 www.shmoop.com##IMG[class="img-responsive center-block"][src="https://media1.shmoop.com/images/internal-promo/partner_program_ad.png"]
 www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"][href="https://www.shmoop.com/subscriptions/plans.html"]
 www.shmoop.com##IFRAME[id="crtDiv_728x90_cto_iframe"]
@@ -199,3 +200,6 @@ www.cnn.com##SECTION[id="story-bottom"][class="zn zn-story-bottom zn-single-colu
 www.cnn.com##SECTION[id="story-bottom-second"][class="zn zn-story-bottom-second zn-balanced zn--idx-2 zn--ordinary zn-has-two-containers"]
 hubpages.com##DIV[id="mod_22485713"][class="hybrid module moduleAmazing color0"]
 hubpages.com##DIV[id="mod_22485693"][class="full module moduleAmazing"]
+playstationforpc.webs.com##IMG[src="http://mediaprocessor.websimages.com/width/121/crop/0,0,121x597/playstationforpc.webs.com/FD102AD1.JPG"]
+playstationforpc.webs.com##A[class="w-link-new-window"]
+www.cavelis.net##SECTION[class="scrollable_wrapper"]
