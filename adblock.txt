@@ -61,16 +61,6 @@ unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly9jZG
 unblocked.lol##A[href="https://unblocked.lol/YouTube/index.php?q=aHR0cDovL2FkZi5seS8_aWQ9ODU2MTk0Nw"]
 unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly9kZWdvby5jb20vQ29udGVudC9JbWFnZXMvQmFubmVyL0RlZ29vLWgyLnBuZw"]
 unblocked.lol##IMG[src="https://unblocked.lol/YouTube/index.php?q=aHR0cHM6Ly93d3cuMDAwd2ViaG9zdC5jb20vaW1hZ2VzL2Jhbm5lcnMvNzI4eDkwLzEuanBn"]
-www.forbes.com##DIV[id="adblock-hover"]
-www.forbes.com##DIV[class="ab-message ab-message-1"]
-www.forbes.com##DIV[class="continue-button"]
-www.forbes.com##DIV[id="navigation"]
-www.forbes.com##P[class="body-byline"]
-www.forbes.com##BLOCKQUOTE[class="body-content"]
-www.forbes.com##SPAN[class="bottom"]
-www.forbes.com##I[class="branding icon icon-forbes-logo"]
-www.forbes.com##SPAN[class="top"]
-www.forbes.com##DIV[id="app"][class="container clearfix default-template ad-300-by-250"]
 www.pri.org##A[class="button"]
 www.pri.org##H4
 www.pri.org##P
