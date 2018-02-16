@@ -27,6 +27,7 @@
 @@|https://www.instagc.com/earn/wall-ads|$document
 @@|https://survey-api.com/api/CUA?$document
 @@||twitch.tv/$document
+@@|https://www.youtube.com/*TrentPatterson|$document
 www.shmoop.com##IMG[class="img-responsive center-block"][src="https://media1.shmoop.com/images/internal-promo/partner_program_ad.png"]
 www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"][href="https://www.shmoop.com/subscriptions/plans.html"]
 www.shmoop.com##IFRAME[id="crtDiv_728x90_cto_iframe"]
@@ -248,3 +249,20 @@ www.linkedin.com##IFRAME[class="ad lazy-loaded"]
 www.twitchquotes.com##DIV[class="ad_block_alternative"]
 www.twitchquotes.com##DIV[class="main_page_ad"]
 www.twitchquotes.com##DIV[class="list_quote_ad_parent"]
+youtube.wikia.com##SECTION[id="sidebarReaderNotice"][class="module"]
+www.gamespot.com##DIV[id="trc_header_70188"][class="trc_rbox_header trc_rbox_border_elm"]
+www.gamespot.com##DIV[id="trc_wrapper_70532"][class="trc_rbox ab_alternating-thumbnails-e_abp-mode trc-content-hybrid "]
+www.gamespot.com##DIV[id="taboola-bottom-page-thumbnails"][class="js-taboola-module trc_related_container trc_spotlight_widget trc_elastic trc_elastic_trc_82710 "]
+www.gamespot.com##SPAN[class="thumbBlock"]
+www.gamespot.com##DIV[class="videoCube_aspect"]
+www.gamespot.com##SPAN[class="branding"]
+www.gamespot.com##SPAN[class="video-label video-title trc_ellipsis "]
+www.gamespot.com##SPAN[class="video-label-box trc-main-label "]
+www.gamespot.com##DIV[id="rbox-t2m"][class="trc_rbox_div trc_rbox_border_elm"]
+www.gamespot.com##DIV[id="trc_header_82335"][class="trc_rbox_header trc_rbox_border_elm"]
+www.gamespot.com##SPAN[class="trc_rbox_header_span"]
+www.gamespot.com##DIV[class="logoDiv link-disclosure  attribution-disclosure-link-hybrid"]
+www.gamespot.com##DIV[id="trc_wrapper_30116"][class="trc_rbox ab_alternating-thumbnails-e_abp-mode trc-content-hybrid "]
+www.gamespot.com##SPAN[class="trc_adc_s_logo"]
+www.gamespot.com##A[class="trc_desktop_attribution_link trc_attribution_position_top"]
+www.gamespot.com##SPAN[class="trc_adc_wrapper"]
