@@ -169,6 +169,7 @@ www.wired.com##IFRAME[id="google_ads_iframe_3379/wiredcom.cm/security_0"][name="
 www.planetminecraft.com##IMG[src="https://i.imgur.com/mol2DzC.png"]
 www.planetminecraft.com##IMG[src="https://i.imgur.com/080S7h7.jpg"]
 www.planetminecraft.com##IMG[src="https://i.imgur.com/Y1ghVQ3.jpg"]
+www.planetminecraft.com##IMG[src="https://i.imgur.com/5oFeh.png"]
 www.planetminecraft.com##IMG[src="https://bdcraft.net/img/ban300x250.png"]
 www.planetminecraft.com##[id="widget-advertisement"]
 playstationforpc.webs.com##IMG[src="http://mediaprocessor.websimages.com/width/121/crop/0,0,121x602/playstationforpc.webs.com/FD102AD1.JPG"]
