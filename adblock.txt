@@ -293,3 +293,4 @@ www.techsupportforum.com##A[class="trc_desktop_attribution_link trc_attribution_
 www.techsupportforum.com##SPAN[class="trc_adc_wrapper"]
 www.techsupportforum.com##DIV[id="trc_header_25741"][class="trc_rbox_header trc_rbox_border_elm"]
 www.techsupportforum.com##DIV[id="trc_wrapper_79813"][class="trc_rbox ab_thumbnails-c_abp-mode trc-content-sponsored "]
+discordbots.org##DIV[id="cdm-zone-01"]
