@@ -354,3 +354,6 @@ mp1st.com##DIV[id="trc_wrapper_93224"][class="trc_rbox ab_thumbnails-c_abp-mode 
 mp1st.com##DIV[class="trc_rbox ab_thumbnails-c_abp-mode trc-content-sponsored "]
 www.prankdial.com##DIV[class="ads"]
 www.prankdial.com##DIV[class="banner"]
+www.freesteamkeys.com##SECTION[id="text-8"][class="widget widget_text first"]
+www.freesteamkeys.com##SECTION[id="text-19"][class="widget widget_text"]
+www.freesteamkeys.com##SECTION[id="text-20"][class="widget widget_text"]
