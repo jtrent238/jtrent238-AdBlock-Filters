@@ -28,6 +28,8 @@
 @@|https://survey-api.com/api/CUA?$document
 @@||twitch.tv/$document
 @@|https://www.youtube.com/*TrentPatterson|$document
+@@|https://www.youtube.com/*TheJtrent238|$document
+@@|https://www.youtube.com/*jtrent238|$document
 www.shmoop.com##IMG[class="img-responsive center-block"][src="https://media1.shmoop.com/images/internal-promo/partner_program_ad.png"]
 www.shmoop.com##A[class="visible-lg wallpaper-xl wallpaper-element wallpaper-top"][href="https://www.shmoop.com/subscriptions/plans.html"]
 www.shmoop.com##IFRAME[id="crtDiv_728x90_cto_iframe"]
