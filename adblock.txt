@@ -451,3 +451,7 @@ pro-essay-writer.com##DIV[id="popup-leavepage"][class="modal modal-fullscreen mo
 pro-essay-writer.com##DIV[class="modal-backdrop fade in"]
 www.computerworld.com##DIV[id="content-recommender"]
 www.giantbomb.com##DIV[class="trc_rbox ab_alternating-thumbnails-a_abp-mode trc-content-sponsored "]
+www.pythoncentral.io##DIV[id="taboola-below-article-thumbnails"][class=" trc_related_container trc_spotlight_widget trc_elastic trc_elastic_trc_23806 "]
+www.pythoncentral.io##SECTION[id="article-downloads-navigation"][class="hidden-print"]
+msguides.com##DIV[class="JaedeihRUmsT-bg"]
+msguides.com##DIV[class="JaedeihRUmsT-default"]
