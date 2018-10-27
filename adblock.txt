@@ -455,3 +455,5 @@ www.pythoncentral.io##DIV[id="taboola-below-article-thumbnails"][class=" trc_rel
 www.pythoncentral.io##SECTION[id="article-downloads-navigation"][class="hidden-print"]
 msguides.com##DIV[class="JaedeihRUmsT-bg"]
 msguides.com##DIV[class="JaedeihRUmsT-default"]
+www.watchcount.com##IMG[class="floatnone"]
+*.weebly.com##DIV[class="powered-by"]
