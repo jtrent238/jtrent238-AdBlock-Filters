@@ -4,7 +4,7 @@
 ! Title: jtrent238's AdBlock BlockList
 ! Last modified: null
 ! Expires: 365 days (update frequency)
-! Homepage: https://jtrent238.weebly.com/
+! Homepage: https://github.com/jtrent238/jtrent238-AdBlock-Filters
 !
 !-----------------------jtrent238's advert blocking filters-----------------------!
 ! *** jtrent238:JTAdBlock/jtrent238_blocks.txt ***
