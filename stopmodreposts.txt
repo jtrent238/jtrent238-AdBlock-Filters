@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Checksum: null
+! Version: null
+! Title: jtrent238's AdBlock BlockList [Stop Mod Reposts]
+! Last modified: null
+! Expires: 365 days (update frequency)
+! Homepage: https://github.com/jtrent238/jtrent238-AdBlock-Filters
+!
+!-----------------------jtrent238's advert blocking filters for StopModReposts-----------------------!
+! *** jtrent238:JTAdBlock/StopModReposts.txt 
+
+***9minecraft.net##*
+$domain=9minecraft.net
