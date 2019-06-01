@@ -260,7 +260,6 @@ minecraft.gamepedia.com##IFRAME[id="-paxjeSv"]
 minecraft.gamepedia.com##IFRAME[id="-pyggydw_svk_axjsew_/36187755/ysewhwvas_8"][name="-pyggydw_svk_axjsew_/36187755/ysewhwvas_8"]
 minecraft.gamepedia.com##DIV[id="-pkavwjsad"]
 minecraft.gamepedia.com##IFRAME[id="-pyggydw_svk_axjsew_/36187755/ysewhwvas_8"]
-minecraft.gamepedia.com##IFRAME
 minecraft.gamepedia.com##DIV[id="ifrmDiv"]
 minecraft.gamepedia.com##DIV[id="-puve-rgfw-81"]
 minecraft.gamepedia.com##DIV[class="-psv-hdsuwewfl -psv-esaf-ewv-jwul-xgglwj"]
