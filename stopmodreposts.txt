@@ -9,5 +9,11 @@
 !-----------------------jtrent238's advert blocking filters for StopModReposts-----------------------!
 ! *** jtrent238:JTAdBlock/StopModReposts.txt 
 
-***9minecraft.net##*
+
 $domain=9minecraft.net
+***9minecraft.net##*
+www.9minecraft.net##*
+
+$domain=mc-mod.net
+***mc-mod.net##*
+www.mc-mod.net##*
