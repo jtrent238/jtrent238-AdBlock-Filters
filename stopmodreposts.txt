@@ -17,3 +17,8 @@ www.9minecraft.net##*
 $domain=mc-mod.net
 ***mc-mod.net##*
 www.mc-mod.net##*
+
+!-------------------------------------------------Unsafe---------------------------------------------!
+$domain=muatturun8.blogspot.com
+***muatturun8.blogspot.com##*
+www.muatturun8.blogspot.com##*
