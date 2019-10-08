@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Checksum: null
+! Version: null
+! Title: jtrent238's AdBlock BlockList [VPN Warnings]
+! Last modified: null
+! Expires: 365 days (update frequency)
+! Homepage: https://github.com/jtrent238/jtrent238-AdBlock-Filters
+!
+!-----------------------jtrent238's advert blocking filters for VPN Warnings-----------------------!
+!-----------------------I DO NOT WANT A VPN SO STOP TELLING ME I NEED ONE!!!-----------------------!
+! *** jtrent238:JTAdBlock/VPNWarnings.txt
+
+unblocked.lol##A[href="https://unblocked.lol/vpn-home"]
+www.torlock2.com##DIV[class="warn"]
+www.torlock2.com##DIV[class="warnIp"]
+www.torlock2.com##DIV[class="wrn_txt"]
+www.torlock2.com##DIV[class="wrn_txt2"]
+www.torlock2.com##SPAN[class="wrn_txt3"]
+www.firesticktricks.com##DIV[class="warning"]
