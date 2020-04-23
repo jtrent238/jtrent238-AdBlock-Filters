@@ -760,3 +760,6 @@ itbeginner.net##[class="adsbygoogle"]
 iknowwhatyoudownload.com##INS[class="adsbygoogle"]
 winscp.net##INS[class="adsbygoogle"]
 winscp.net##DIV[class="promo-block"]
+blackspigot.com##DIV[id="exposeMask"]
+blackspigot.com##DIV[class="xenOverlay"]
+
