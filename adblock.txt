@@ -806,4 +806,4 @@ www.digitaltrends.com##DIV[id="dtads-hub-3arop9o97ax"][class="dtads-slot dtads-s
 www.digitaltrends.com##DIV[id="dtads-leaderboard-280vk9r344w"][class="dtads-slot dtads-slot-leaderboard dtads-desktop callout solid dtads-is-rendered"]
 www.digitaltrends.com##DIV[id="dtads-leaderboard-1znsvr6x2wdh"][class="dtads-slot dtads-slot-leaderboard dtads-desktop callout solid dtads-is-rendered"]
 www.digitaltrends.com##DIV[id="dtads-leaderboard-n284qrcck9"][class="dtads-slot dtads-slot-leaderboard dtads-desktop callout solid dtads-is-rendered"]
-
+profreehost.com##DIV[class="adb-wrap"]
