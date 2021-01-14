@@ -825,3 +825,6 @@ www.bleepingcomputer.com##DIV[id="sticky-footer"][class="sticky-footer-standard"
 www.bleepingcomputer.com##SECTION[class="cz-boa-wrapp"]
 www.bleepingcomputer.com##DIV[id="bleepingcomputer_728x90_320x50_Download_ATF"]
 www.bleepingcomputer.com##DIV[id="after_dl"]
+10minutemail.net##DIV[id="GoogleADRight"][class="ads-lh"]
+10minutemail.net##DIV[id="right"]
+10minutemail.net##DIV[id="leftover"][class="leftL"]
